@@ -1,0 +1,35 @@
+li {
+	list-style: none;
+	float: left;
+	
+}
+.header {
+	background-color: maroon;
+	color: white;
+	height: 85px;
+	font-family: Arial;
+}
+.header-main {
+	font-size: 35px;
+	float: left;
+	padding: 20px 30px;
+}
+.header-menu {
+	float: left;
+}
+.header-menu li {
+	padding: 20px 30px;
+}
+.title1 {
+	font-size: 30px;
+	font-family: Cambria;
+	border-bottom: 2px solid #000000;
+	padding: 10px;
+}
+.isi {
+	padding: 20px 30px;
+	height: 500px;
+}
+.isi-list li{
+	padding: 20px 30px;
+}
